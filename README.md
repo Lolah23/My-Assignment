@@ -26,7 +26,9 @@ _One Hundred Years..._
 [a fun place](www.zombo.com)
 [the website for you](www.stumbleupon.com)
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
 [Black cat](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
+
 [Orange cat](http://iconsarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
 
 #### **BLOCKQUOTES**
